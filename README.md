@@ -21,6 +21,6 @@ GameHub - это место, в котором геймеры смогут ве�
 
 ## Сервисы
 
-Сервис аутентификации и авторизации: https://github.com/sariya23/auth_service
-Мастер-сервис справочник игр: https://github.com/sariya23/game_service
-Контракты: https://github.com/sariya23/proto_api_games
+- Сервис аутентификации и авторизации: https://github.com/sariya23/auth_service
+- Мастер-сервис справочник игр: https://github.com/sariya23/game_service
+- Контракты: https://github.com/sariya23/proto_api_games
